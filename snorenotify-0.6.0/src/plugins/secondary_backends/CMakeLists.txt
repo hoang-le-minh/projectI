@@ -1,0 +1,4 @@
+ecm_optional_add_subdirectory(toasty)
+ecm_optional_add_subdirectory(nma)
+ecm_optional_add_subdirectory(sound)
+ecm_optional_add_subdirectory(pushover_backend)

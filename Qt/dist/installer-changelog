@@ -1,0 +1,159 @@
+****************************************************************************
+*                        4.2.0                                             *
+****************************************************************************
+- Enabled German, French, Porguguese, Spanish, Japanese, Russian, Arabic languages
+- Allow entering multiple license keys from CLI and GUI (QTIFW-2256, QTIFW-2251)
+- Add CLI option for disabling account saving to file (QTIFW-2239)
+- Fix keydec crash (QTIFW-2274)
+- Fix crash with some expired licenses (QTBUG-94159)
+- Enabled the use of new archive formats for data (QTIFW-2255)
+- Updated to Qt version Qt5.12.11 in Qt Installer and Maintenance Tool builds
+
+****************************************************************************
+*                        4.1.1                                             *
+****************************************************************************
+- Redesign default installation experience (QTIFW-2200)
+- Fix offline installer execution without internet connection (QTIFW-2222)
+- ObligationsPage: Keep the company name checkbox unchecked (QTIFW-2191)
+
+****************************************************************************
+*                        4.1.0                                             *
+****************************************************************************
+- Fixed unstable components -event sending
+- Offline generation from online installer for commercial users
+- CLI: Fixed hang when 'installations-validate' response is not 'success' (QTIFW-2163)
+- Updated icons, texts and link colors
+- Exit installer when using CLI option 'mirror' in commercial installs (QTIFW-2136)
+- Added possibility to add product images from server (QTIFW-1912)
+- Fixed help text for expired commercial account (QTIFW-2133)
+- Fixed server message visibility (QTIFW-2123)
+- Moved signup validation messages below signup fields (QTIFW-2101)
+
+****************************************************************************
+*                        4.0.1-1                                           *
+****************************************************************************
+- Present sign-up and login buttons as links
+- Stylesheet: remove checkerboard background from QScrollBar on Windows
+- Fix inconsistent initial focus on CredentialsPage
+- Fix menu item hover color
+- Fix 'unstable' component color
+- Add disabled state for radiobutton
+- Change input text fields from green to white
+- Disable background image tiling
+- Fix menu item hover color
+
+****************************************************************************
+*                        4.0.1                                             *
+****************************************************************************
+- Added new UI facelift
+
+****************************************************************************
+*                        4.0.0                                             *
+****************************************************************************
+- Added commands and options for installing without GUI - see https://wiki.qt.io/Online_Installer_4.x
+- Added images to details view in Installing -page
+- Combined welcome and login pages
+- Moved login and signup widgets into separate views
+- Updated Qt logos
+- Added side widget to show installation progress
+
+****************************************************************************
+*                        3.2.3                                             *
+****************************************************************************
+- Added company name requirement to obligations page (QTIFW-1731)
+- Added cancel button to finish network requests in welcome page (QTIFW-1115)
+
+****************************************************************************
+*                        3.2.2                                             *
+****************************************************************************
+- Using Qt5.12.7 for builds (QTIFW-1632)
+
+****************************************************************************
+*                        3.2.0                                             *
+****************************************************************************
+- Uncapitalize the email used on login and signup (QTIFW-1368)
+- Disable navigating back to welcome page during login/signup operations (QTPM-954)
+- More responsive label messages for sign-up fields (QTPM-955)
+- Updated to Qt version Qt5.12.4 for installer and maintenancetool builds
+- Updated the OpenSSL version to 1.1.1d
+- Extended support for more than one type of packaging license resource (QTIFW-1359)
+- Patch files per component, not per installation directory (QTIFW-1180)
+
+****************************************************************************
+*                        3.1.1                                             *
+****************************************************************************
+- Revert "We don't patch product keys anymore so remove unnecessary code" (QTBUG-75323)
+- Fixed big maintenancetool in offline installs
+- Disallow navigating back to credentials page after it's first completion
+- Allow commercial installation from sign up fields
+- Improve offline installers login flow without internet connection
+
+****************************************************************************
+*                        3.1.0                                             *
+****************************************************************************
+- Added support for repository categories
+- Added support for preselecting some repository categories
+- Added support for continuing install although there are unstable components
+- Remove references to hard coded license agreement files
+- Increased installer default width
+
+****************************************************************************
+*                        3.0.5                                             *
+****************************************************************************
+- Installer-Framework (MaintenanceTool and installers) built against Qt5.9.5
+- Improved metadata download:
+ -> Metadata downloaded in smaller chunks
+ -> Metadata download amount decreased by skipping the empty 7z download
+ -> Metadata warning log only in verbose mode
+- Fixed incorrect package uninstall (QTIFW-1114)
+
+****************************************************************************
+*                        3.0.4                                             *
+****************************************************************************
+- Added User-Agent parameter to network headers when communicating with
+  installer backend
+- Fixed installer crash at the end of install
+- Proxy usage fixes
+- Added new --no-proxy option for Installer and MaintenanceTool
+
+****************************************************************************
+*                        3.0.2-1                                           *
+****************************************************************************
+- Fixed crash when install deactivation failed in the end of uninstall.
+- Fixed crashes when downloadable package is missing (QTIFW-1064)
+
+****************************************************************************
+*                        3.0.2                                             *
+****************************************************************************
+- Installer-Framework (MaintenanceTool and installers) built against Qt5.9.0
+- Removed hard coded root repository urls from config.xml.
+  All repository url's are now fetched from server
+
+****************************************************************************
+*                        2.0.4-2                                           *
+****************************************************************************
+- Installer-Framework (MaintenanceTool and installers) built against Qt5.6.2
+
+****************************************************************************
+*                        2.0.4                                             *
+****************************************************************************
+- "-openssl-linked" used for online intaller and MaintenanceTool builds
+- Linux: MaintenanceTool icon updated
+
+****************************************************************************
+*                        2.0.3-1                                           *
+****************************************************************************
+- "-static-runtime" used for IFW/MaintenanceTool builds (Windows)
+
+****************************************************************************
+*                        2.0.3                                             *
+****************************************************************************
+
+- Installer (Installer-Framework) compiled against Qt5.5.1
+- Fix crash when updating admin installation with user/temp repository (QTIFW-740)
+- Fix target directory check for reserved words on Windows
+- Fix errors when running updates in a directory requiring elevation (QTIFW-746)
+- Fix usage of system proxy with credentials (QTBUG-46547)
+- Fix: .dat file gets deleted after multiple component changes (QTIFW-689)
+- Fix maintenance tool upgrade on OSX
+

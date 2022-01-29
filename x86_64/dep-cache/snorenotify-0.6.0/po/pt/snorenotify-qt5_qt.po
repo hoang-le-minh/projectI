@@ -1,0 +1,365 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: snorenotify-qt5_qt\n"
+"PO-Revision-Date: 2015-08-30 14:45+0100\n"
+"Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
+"Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+"X-POFile-SpellExtra: Supertoasty Snore Notifymyandroid DBus Toasty net\n"
+"X-POFile-SpellExtra: Pushover\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: daemon/trayicon.cpp:77
+msgctxt "TrayIcon|"
+msgid "Display Test Notification"
+msgstr "Mostrar uma Notificação de Testes"
+
+#: daemon/trayicon.cpp:79
+msgctxt "TrayIcon|"
+msgid "Settings"
+msgstr "Configuração"
+
+#: daemon/trayicon.cpp:81
+msgctxt "TrayIcon|"
+msgid "Exit"
+msgstr "Sair"
+
+#: libsnore/application_p.cpp:31
+msgctxt "Default Alert|"
+msgid "Default"
+msgstr "Predefinição"
+
+#: libsnore/plugins/pluginsettingswidget.cpp:36
+msgctxt "Snore::PluginSettingsWidget|"
+msgid "Enabled:"
+msgstr "Activo:"
+
+#: libsnore/settingsdialog.ui:14
+msgctxt "SettingsDialog|"
+msgid "Settings"
+msgstr "Configuração"
+
+#: libsnore/settingsdialog.ui:34
+msgctxt "SettingsDialog|"
+msgid "General"
+msgstr "Geral"
+
+#: libsnore/settingsdialog.ui:45
+msgctxt "SettingsDialog|"
+msgid "Primary Backend:"
+msgstr "Infra-Estrutura Primária:"
+
+#: libsnore/settingsdialog.ui:55
+msgctxt "SettingsDialog|"
+msgid "Timeout:"
+msgstr "Tempo-limite:"
+
+#: libsnore/settingsdialog.ui:62
+msgctxt "SettingsDialog|"
+msgid "s"
+msgstr "s"
+
+#: libsnore/settingsdialog.ui:69
+msgctxt "SettingsDialog|"
+msgid "Disable Notification Sound:"
+msgstr "Desactivar o Som da Notificação:"
+
+#: libsnore/settingsdialog.ui:79
+msgctxt "SettingsDialog|"
+msgid "Error:"
+msgstr "Erro:"
+
+#: libsnore/settingsdialog.ui:96
+msgctxt "SettingsDialog|"
+msgid "Primary Backends"
+msgstr "Infra-Estruturas Primárias"
+
+#: libsnore/settingsdialog.ui:106
+msgctxt "SettingsDialog|"
+msgid "Secondary Backends"
+msgstr "Infra-Estruturas Secundárias"
+
+#: libsnore/settingsdialog.ui:116
+msgctxt "SettingsDialog|"
+msgid "Frontends"
+msgstr "Interfaces"
+
+#: libsnore/settingsdialog.ui:126
+msgctxt "SettingsDialog|"
+msgid "Plugins"
+msgstr "'Plugins'"
+
+#: libsnore/settingsdialog.ui:139
+msgctxt "SettingsDialog|"
+msgid "Display Test Notification"
+msgstr "Mostrar uma Notificação de Testes"
+
+#: libsnore/snore.cpp:264
+#, qt-format
+msgctxt "Snore::SnoreCore|"
+msgid "This is %1"
+msgstr "Isto é %1"
+
+#: libsnore/snore.cpp:265
+msgctxt "Snore::SnoreCore|"
+msgid "Everything is awesome!"
+msgstr "Tudo é espectacular!"
+
+#: libsnore/snore.cpp:269
+msgctxt "Snore::SnoreCore|"
+msgid "Hello There!"
+msgstr "Olá a Todos!"
+
+#: libsnore/snore.cpp:270
+msgctxt "Snore::SnoreCore|"
+msgid "Awesome Action!"
+msgstr "Acção Espectacular!"
+
+#: plugins/backends/growl/growlbackend.cpp:70
+#, qt-format
+msgctxt "GrowlBackend|"
+msgid "%1 is not running."
+msgstr "O %1 não está em execução."
+
+#: plugins/backends/growl/growlsettings.cpp:30
+msgctxt "GrowlSettings|"
+msgid "Host:"
+msgstr "Máquina:"
+
+#: plugins/backends/growl/growlsettings.cpp:31
+msgctxt "GrowlSettings|"
+msgid "Password:"
+msgstr "Senha:"
+
+#: plugins/backends/snarl/snarl.cpp:150
+#, qt-format
+msgctxt "SnarlBackend|"
+msgid "%1 is not running."
+msgstr "O %1 não está em execução."
+
+#: plugins/backends/snarl/snarlsettings.cpp:29
+msgctxt "SnarlSettings|"
+msgid "Password:"
+msgstr "Senha:"
+
+#: plugins/backends/snore/snorenotifiersettings.cpp:29
+msgctxt "SnoreNotifierSettings|"
+msgid "Top Left Corner"
+msgstr "Canto Superior-Esquerdo"
+
+#: plugins/backends/snore/snorenotifiersettings.cpp:30
+msgctxt "SnoreNotifierSettings|"
+msgid "Top Right Corner"
+msgstr "Canto Superior-Direito"
+
+#: plugins/backends/snore/snorenotifiersettings.cpp:31
+msgctxt "SnoreNotifierSettings|"
+msgid "Bottom Left Corner"
+msgstr "Canto Inferior-Esquerdo"
+
+#: plugins/backends/snore/snorenotifiersettings.cpp:32
+msgctxt "SnoreNotifierSettings|"
+msgid "Bottom Right Corner"
+msgstr "Canto Inferior-Direito"
+
+#: plugins/backends/snore/snorenotifiersettings.cpp:33
+msgctxt "SnoreNotifierSettings|"
+msgid "Position:"
+msgstr "Posição:"
+
+#: plugins/backends/snoretoast/snoretoast.cpp:20
+#, qt-format
+msgctxt "SnoreToast|"
+msgid "%1 needs at least Windows 8 to run."
+msgstr "O %1 precisa pelo menos do Windows 8 para executar."
+
+#: plugins/frontends/freedesktop_frontend/freedesktopnotificationfrontend.cpp:40
+msgctxt "FreedesktopFrontend|"
+msgid "Failed to register dbus object."
+msgstr "Não foi possível registar o objecto de DBus."
+
+#: plugins/frontends/freedesktop_frontend/freedesktopnotificationfrontend.cpp:43
+msgctxt "FreedesktopFrontend|"
+msgid "Failed to register dbus service."
+msgstr "Não foi possível registar o serviço de DBus."
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:36
+msgctxt "PushoverSettings|"
+msgid "Email Address:"
+msgstr "Endereço de E-Mail:"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:37
+msgctxt "PushoverSettings|"
+msgid "Password:"
+msgstr "Senha:"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:38
+msgctxt "PushoverSettings|"
+msgid "Device Name:"
+msgstr "Nome do Dispositivo:"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:40
+msgctxt "PushoverSettings|"
+msgid "Status"
+msgstr "Estado"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:42
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:34
+msgctxt "PushoverSettings|"
+msgid ""
+"If you don't have an account yet please register at <a href=\"https://"
+"pushover.net\">Pushover.net</a>"
+msgstr ""
+"Se não tiver ainda uma conta, por favor registe-a no <a href=\"https://"
+"pushover.net\">Pushover.net</a>"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:88
+msgctxt "PushoverSettings|"
+msgid "Log out"
+msgstr "Encerrar"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:89
+msgctxt "PushoverSettings|"
+msgid "Logged in."
+msgstr "Iniciou a sessão."
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:95
+msgctxt "PushoverSettings|"
+msgid "Log in"
+msgstr "Iniciar a sessão"
+
+#: plugins/frontends/pushover_frontend/pushoversettings.cpp:97
+msgctxt "PushoverSettings|"
+msgid "Logged out."
+msgstr "Encerrou a sessão."
+
+#: plugins/frontends/snarlnetwork/snarlnetwork.cpp:37
+msgctxt "SnarlNetworkFrontend|"
+msgid "The port is already used by a different application."
+msgstr "O porto já está em uso por uma aplicação diferente."
+
+#: plugins/secondary_backends/nma/nmasettings.cpp:29
+msgctxt "NotifyMyAndroidSettings|"
+msgid "Api Key:"
+msgstr "Chave da API:"
+
+#: plugins/secondary_backends/nma/nmasettings.cpp:29
+msgctxt "NotifyMyAndroidSettings|"
+msgid ""
+"The api key which can be found in your account page at <a href=\"http://"
+"notifymyandroid.com/\">Notifymyandroid.com</a>."
+msgstr ""
+"A chave da API que pode ser obtida na página da sua conta em <a href="
+"\"http://notifymyandroid.com/\">Notifymyandroid.com</a>."
+
+#: plugins/secondary_backends/nma/nmasettings.cpp:30
+msgctxt "NotifyMyAndroidSettings|"
+msgid ""
+"If you don't have an account yet please register at <a href=\"http://"
+"notifymyandroid.com/\">Notifymyandroid.com</a>."
+msgstr ""
+"Se ainda não tem uma conta, registe-a por favor no <a href=\"http://"
+"notifymyandroid.com/\">Notifymyandroid.com</a>."
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:31
+msgctxt "PushoverSettings|"
+msgid "User Key:"
+msgstr "Chave do Utilizador:"
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:31
+msgctxt "PushoverSettings|"
+msgid ""
+"The user key which can be found on your account page at <a href=\"https://"
+"pushover.net\">Pushover.net</a>."
+msgstr ""
+"A chave do utilizador que pode ser obtida na página da sua conta em <a href="
+"\"http://pushover.net/\">Pushover.net</a>."
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:32
+msgctxt "PushoverSettings|"
+msgid "Sound:"
+msgstr "Som:"
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:32
+msgctxt "PushoverSettings|"
+msgid "The pushover sound that is played when a notification is received."
+msgstr "O som do Pushover que é tocado quando é recebida uma notificação."
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:33
+msgctxt "PushoverSettings|"
+msgid "Devices:"
+msgstr "Dispositivos:"
+
+#: plugins/secondary_backends/pushover_backend/pushoversettings.cpp:33
+msgctxt "PushoverSettings|"
+msgid "The devices that are to receive the notifications."
+msgstr "Os dispositivos que irão receber as notificações."
+
+#: plugins/secondary_backends/sound/soundsettings.cpp:34
+msgctxt "SoundSettings|"
+msgid "Volume:"
+msgstr "Volume:"
+
+#: plugins/secondary_backends/sound/soundsettings.cpp:36
+msgctxt "SoundSettings|"
+msgid "Audio file:"
+msgstr "Ficheiro de áudio:"
+
+#: plugins/secondary_backends/sound/soundsettings.cpp:36
+msgctxt "SoundSettings|"
+msgid "The sound played when a notification is received."
+msgstr "O som que é tocado quando é recebida uma notificação."
+
+#: plugins/secondary_backends/sound/soundsettings.cpp:37
+msgctxt "SoundSettings|"
+msgid "Select a audio file"
+msgstr "Seleccione um ficheiro de áudio"
+
+#: plugins/secondary_backends/sound/soundsettings.cpp:40
+msgctxt "SoundSettings|"
+msgid "All Audio files"
+msgstr "Todos os ficheiros de áudio"
+
+#: plugins/secondary_backends/toasty/toastysettings.cpp:29
+msgctxt "ToastySettings|"
+msgid "Device ID:"
+msgstr "ID do dispositivo:"
+
+#: plugins/secondary_backends/toasty/toastysettings.cpp:29
+msgctxt "ToastySettings|"
+msgid "The device id which can be found in the toasty app."
+msgstr "O ID do dispositivo que poderá ser encontrado na aplicação Toasty."
+
+#: plugins/secondary_backends/toasty/toastysettings.cpp:30
+msgctxt "ToastySettings|"
+msgid "<a href=\"http://supertoasty.com/\">Supertoasty.com</a>"
+msgstr "<a href=\"http://supertoasty.com/\">Supertoasty.com</a>"
+
+#: settings/settingswindow.cpp:52
+#, qt-format
+msgctxt "SettingsWindow|"
+msgid "%1 Settings"
+msgstr "Configuração do %1"
+
+#: settings/settingswindow.ui:14
+msgctxt "SettingsWindow|"
+msgid "Snore Settings"
+msgstr "Configuração do Snore"
+
+#: settings/settingswindow.ui:27
+msgctxt "SettingsWindow|"
+msgid "Application"
+msgstr "Aplicação"
+
+#: snoresend/main.cpp:141
+msgctxt "SnoreSend|"
+msgid "Bring to Front"
+msgstr "Elevar"

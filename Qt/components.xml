@@ -1,0 +1,194 @@
+<Packages>
+    <ApplicationName>Qt</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>qt</Name>
+        <Title>Qt</Title>
+        <Description>Qt &lt;br>&lt;br>Looking for Qt 6 and don't have a subscription-based license? Contact the Customer Success Team at subscription@qt.io to get your evaluation license now.</Description>
+        <TreeName></TreeName>
+        <Version>1.0.16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>0</Size>
+    </Package>
+    <Package>
+        <Name>qt.license.lgpl</Name>
+        <Title>Qt License LGPL</Title>
+        <Description></Description>
+        <TreeName></TreeName>
+        <Version>1.0.2</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>0</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.python</Name>
+        <Title>Python Software Foundation License Version 2</Title>
+        <Description></Description>
+        <TreeName></TreeName>
+        <Version>2</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>0</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.thirdparty</Name>
+        <Title>Qt 3rd Party Licenses</Title>
+        <Description></Description>
+        <TreeName></TreeName>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>106261</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.license.win10sdk</Name>
+        <Title>MICROSOFT SOFTWARE LICENSE SDK FOR WINDOWS 10 </Title>
+        <Description></Description>
+        <TreeName></TreeName>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>0</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools</Name>
+        <Title>Developer and Designer Tools</Title>
+        <Description>IDE, Internationalization, Design and other tools to accelerate development.</Description>
+        <TreeName></TreeName>
+        <Version>1.2.0-0-202110260846</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>0</Size>
+        <Dependencies>qt.license.thirdparty,qt.license.lgpl</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.cmake.win64</Name>
+        <Title>CMake 3.21.1 64-bit</Title>
+        <Description>CMake tools 3.21.1</Description>
+        <TreeName></TreeName>
+        <Version>3.21.1-202109070924</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>93118622</Size>
+        <Dependencies>qt.tools.qtcreator</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.maintenance</Name>
+        <Title>Maintenance Tool</Title>
+        <Description>Maintenance Tool</Description>
+        <TreeName></TreeName>
+        <Version>4.2.0-0-202111081302</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>26532366</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>qt.tools.ninja</Name>
+        <Title>Ninja 1.10.2</Title>
+        <Description>Ninja 1.10.2</Description>
+        <TreeName></TreeName>
+        <Version>1.10.2-202108061017</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>538152</Size>
+        <Dependencies>qt.tools.qtcreator</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.qtcreator</Name>
+        <Title>Qt Creator 6.0.0</Title>
+        <Description>IDE for Qt application development</Description>
+        <TreeName></TreeName>
+        <Version>6.0.0-0-202112011938</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>676648996</Size>
+        <Dependencies>qt.tools.vcredist_msvc2019_x86,qt.tools.vcredist,qt.tools.vcredist_msvc2019_x64,qt.tools.vcredist_64</Dependencies>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>qt.tools.qtcreatorcdbext</Name>
+        <Title>Qt Creator 6.0.0 CDB Debugger Support</Title>
+        <Description>CDB Debugger support for Qt Creator</Description>
+        <TreeName></TreeName>
+        <Version>6.0.0-0-202112011938</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>12973772</Size>
+        <Dependencies>qt.tools.qtcreator,qt.license.python</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist</Name>
+        <Title>VCRedist for MSVC 32bit</Title>
+        <Description>Needed by all included Qt applications.</Description>
+        <TreeName></TreeName>
+        <Version>2011-03-03-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>8990592</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist_64</Name>
+        <Title>VCRedist for MSVC 64bit</Title>
+        <Description>Needed by all included Qt applications.</Description>
+        <TreeName></TreeName>
+        <Version>2020-03-18</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>10274176</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist_msvc2019_x64</Name>
+        <Title>VCRedist for MSVC 2019 64bit</Title>
+        <Description>Visual C++ Redistributable Packages for Visual Studio 2019 64 bit</Description>
+        <TreeName></TreeName>
+        <Version>2020-05-19-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>15060536</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.vcredist_msvc2019_x86</Name>
+        <Title>VCRedist for MSVC 2019 32bit</Title>
+        <Description>Visual C++ Redistributable Packages for Visual Studio 2019 32 bit</Description>
+        <TreeName></TreeName>
+        <Version>2019-05-19-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>14364480</Size>
+        <Virtual>true</Virtual>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>qt.tools.windows_kits_debuggers</Name>
+        <Title>Debugging Tools for Windows</Title>
+        <Description>Debugger and Tools Redistributable Packages for MSVC binaries</Description>
+        <TreeName></TreeName>
+        <Version>2019-11-07-0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-12-04</InstallDate>
+        <Size>59527248</Size>
+        <Dependencies>qt.tools.qtcreator,qt.license.win10sdk</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-051-c971-3cb91a">
+    <release tarname="pthreads-w32-2.10-mingw32-pre-20160821-1-doc.tar.xz" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="share/doc/pthreads-win32/2.10/PortabilityIssues.html" />
+        <file path="share/doc/pthreads-win32/2.10/cpu_set.html" />
+        <file path="share/doc/pthreads-win32/2.10/index.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthreadCancelableWait.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_attr_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_attr_setstackaddr.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_attr_setstacksize.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_barrier_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_barrier_wait.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_barrierattr_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_barrierattr_setpshared.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_cancel.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_cleanup_push.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_cond_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_condattr_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_condattr_setpshared.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_create.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_delay_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_detach.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_equal.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_exit.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_getunique_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_getw32threadhandle_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_join.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_key_create.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_kill.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_mutex_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_mutexattr_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_mutexattr_setpshared.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_num_processors_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_once.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_rdlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_timedrdlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_timedwrlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_unlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlock_wrlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlockattr_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_rwlockattr_setpshared.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_self.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setaffinity_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setcancelstate.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setcanceltype.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setconcurrency.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setname_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_setschedparam.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_spin_init.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_spin_lock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_spin_unlock.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_timechange_handler_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_win32_attach_detach_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_win32_getabstime_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/pthread_win32_test_features_np.html" />
+        <file path="share/doc/pthreads-win32/2.10/sched_get_priority_max.html" />
+        <file path="share/doc/pthreads-win32/2.10/sched_getscheduler.html" />
+        <file path="share/doc/pthreads-win32/2.10/sched_setaffinity.html" />
+        <file path="share/doc/pthreads-win32/2.10/sched_setscheduler.html" />
+        <file path="share/doc/pthreads-win32/2.10/sched_yield.html" />
+        <file path="share/doc/pthreads-win32/2.10/sem_init.html" />
+    </manifest>
+</package>

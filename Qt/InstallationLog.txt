@@ -1,0 +1,517 @@
+************************************* Invoked: T7 Thg12 4 16:19:49 2021
+[0] Arguments: C:\Users\PV\Downloads\qt-unified-windows-x86-4.1.1-online.exe
+[25] Operations sanity check succeeded.
+[26] Reading Qt Account settings from disk: "C:/Users/PV/AppData/Roaming/Qt/qtaccount.ini"
+[26] Warning: Qt Account settings file [C:\\Users\\PV\\AppData\\Roaming\\Qt\\qtaccount.ini] does not exist.
+[27] Warning: Could not find Qt Account.
+[27] QtAccount information:
+[27] Login completed: false
+[27] Email: ""
+[27] Total number of licenses: 0
+[27] Account type: 3
+[28] Language: en-US
+[1176] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[3113] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[3113] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[7891] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8048] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8167] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8272] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8397] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8692] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8897] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9072] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9411] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9582] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9731] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10011] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10191] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10390] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10590] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10830] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10951] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[11530] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[11680] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[11986] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12285] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12455] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12599] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12704] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12920] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13144] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13314] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13374] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13569] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13855] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15034] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15048] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15048] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15227] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15397] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15592] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15782] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16016] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16201] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16361] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16581] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16792] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[16981] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[17581] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[19862] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[19862] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[19862] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[23246] Warning: Network error: [ QNetworkReply::AuthenticationRequiredError ] "Authentication failed."
+[23246] Warning: Authentication failed.
+[23246] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[23247] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[86182] Warning: Error during sign up: [ QNetworkReply::UnknownContentError ] "Email address is not allowed."
+[86182] Warning: Can not create new Qt Account with invalid email format.
+[182794] cancelInstallation : Qt Question : Do you want to quit the installer application? Yes|No
+[186615] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[186616] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[188072] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[189801] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[190260] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[190665] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[191341] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[192853] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[192853] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[192853] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[193995] Warning: Qt Account login failed: "hoangminhdh11@gmail.com"
+[193995] Warning: You need to verify your Qt account email address before proceeding to the next step. Please check your email or visit <a href='https://account.qt.io'>Qt Account</a> for further information.
+[193995] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[193995] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[274713] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[274713] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[274713] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[275789] Login completed to Qt Account: "hoangminhdh11@gmail.com"
+[276832] Saving licenses to file: "C:/Users/PV/AppData/Roaming/Qt/qtlicenses.ini"
+[276834] Saving Qt Account settings to file: "C:/Users/PV/AppData/Roaming/Qt/qtaccount.ini"
+[278218] "Installation preconditions ok, installation can proceed!" [ "success" ]
+[291656] Preparing meta information download...
+[302974] Retrieving meta information from remote repository...
+[319913] Extracting meta information...
+[429388] Installation space required: "551.37 GB" Temporary space required: "82.38 GB" Local repository size: "0.00 bytes"
+[429401] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "34.96 GB"
+[453164] Installation space required: "549.50 GB" Temporary space required: "81.86 GB" Local repository size: "0.00 bytes"
+[453166] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "34.96 GB"
+[528864] Installation space required: "549.50 GB" Temporary space required: "81.86 GB" Local repository size: "0.00 bytes"
+[528865] Tmp is on a different volume than the installation directory. Tmp volume mount point: "C:\\" Free space available: "34.95 GB" Install volume mount point: "D:\\" Free space available: "318.85 GB"
+[544117] Preparing meta information download...
+[552734] Installation space required: "1.11 GB" Temporary space required: "543.41 MB" Local repository size: "0.00 bytes"
+[552736] Tmp is on a different volume than the installation directory. Tmp volume mount point: "C:\\" Free space available: "34.95 GB" Install volume mount point: "D:\\" Free space available: "318.85 GB"
+[597333] Installation space required: "1.11 GB" Temporary space required: "543.41 MB" Local repository size: "0.00 bytes"
+[597335] Tmp and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "34.95 GB"
+[602025] Saving uuid for: "hoangminhdh11@gmail.com"
+[602037] backup  operation: Mkdir
+[602037] 	- arguments: C:/Qt
+[602037] Done
+[602040] perform  operation: Mkdir
+[602040] 	- arguments: C:/Qt
+[602041] Done
+[602042] Preparing the installation...
+[602042] Install size: 16 components
+[602057] Starting elevated process "C:\\Users\\PV\\Downloads\\qt-unified-windows-x86-4.1.1-online.exe" with arguments " --start-server PRODUCTION,{85aa8459-7f28-438e-8f86-66fbc8ac6735},{a7ca1892-f10b-481e-9f04-bec3b56355ef}"
+[604118] Finished starting elevated process.
+[604224] Downloading packages...
+[604230] Downloading archive "4.2.0-0-202111081302tqtc-installer-framework-Windows-Windows_10-MSVC2015-Windows-Windows_10-X86-QtInstaller.7z.sha1" for component Maintenance Tool.
+[606326] Downloading archive "4.2.0-0-202111081302tqtc-installer-framework-Windows-Windows_10-MSVC2015-Windows-Windows_10-X86-QtInstaller.7z" for component Maintenance Tool.
+[611222] Downloading archive "4.2.0-0-202111081302installer-changelog.7z.sha1" for component Maintenance Tool.
+[613273] Downloading archive "4.2.0-0-202111081302installer-changelog.7z" for component Maintenance Tool.
+[615627] Downloading archive "4.2.0-0-202111081302installer-resource.7z.sha1" for component Maintenance Tool.
+[617591] Downloading archive "4.2.0-0-202111081302installer-resource.7z" for component Maintenance Tool.
+[620478] Downloading archive "1.0.0ThirdPartySoftware_Listing.7z.sha1" for component Qt 3rd Party Licenses.
+[623001] Downloading archive "1.0.0ThirdPartySoftware_Listing.7z" for component Qt 3rd Party Licenses.
+[625745] Downloading archive "1.0.0fdl_license.7z.sha1" for component Qt 3rd Party Licenses.
+[627841] Downloading archive "1.0.0fdl_license.7z" for component Qt 3rd Party Licenses.
+[630368] Downloading archive "2020-03-18vcredist_x64.7z.sha1" for component VCRedist for MSVC 64bit.
+[632530] Downloading archive "2020-03-18vcredist_x64.7z" for component VCRedist for MSVC 64bit.
+[639398] Downloading archive "2019-05-19-1vcredist_msvc2019_x86.7z.sha1" for component VCRedist for MSVC 2019 32bit.
+[641749] Downloading archive "2019-05-19-1vcredist_msvc2019_x86.7z" for component VCRedist for MSVC 2019 32bit.
+[647255] Downloading archive "2011-03-03-1vcredist_x86.7z.sha1" for component VCRedist for MSVC 32bit.
+[649320] Downloading archive "2011-03-03-1vcredist_x86.7z" for component VCRedist for MSVC 32bit.
+[653873] Downloading archive "2020-05-19-1vcredist_msvc2019_x64.7z.sha1" for component VCRedist for MSVC 2019 64bit.
+[655973] Downloading archive "2020-05-19-1vcredist_msvc2019_x64.7z" for component VCRedist for MSVC 2019 64bit.
+[661512] Downloading archive "6.0.0-0-202112011938qtcreator.7z.sha1" for component Qt Creator 6.0.0.
+[663922] Downloading archive "6.0.0-0-202112011938qtcreator.7z" for component Qt Creator 6.0.0.
+[690551] Downloading archive "6.0.0-0-202112011938wininterrupt32.7z.sha1" for component Qt Creator 6.0.0.
+[693254] Downloading archive "6.0.0-0-202112011938wininterrupt32.7z" for component Qt Creator 6.0.0.
+[695941] Downloading archive "6.0.0-0-202112011938wininterrupt64.7z.sha1" for component Qt Creator 6.0.0.
+[698162] Downloading archive "6.0.0-0-202112011938wininterrupt64.7z" for component Qt Creator 6.0.0.
+[700514] Downloading archive "6.0.0-0-202112011938qtcreator_sdktool.7z.sha1" for component Qt Creator 6.0.0.
+[702873] Downloading archive "6.0.0-0-202112011938qtcreator_sdktool.7z" for component Qt Creator 6.0.0.
+[706011] Downloading archive "6.0.0-0-202112011938jom.7z.sha1" for component Qt Creator 6.0.0.
+[708196] Downloading archive "6.0.0-0-202112011938jom.7z" for component Qt Creator 6.0.0.
+[712010] Downloading archive "6.0.0-0-202112011938qtcreatorcdbext32.7z.sha1" for component Qt Creator 6.0.0 CDB Debugger Support.
+[714343] Downloading archive "6.0.0-0-202112011938qtcreatorcdbext32.7z" for component Qt Creator 6.0.0 CDB Debugger Support.
+[717741] Downloading archive "6.0.0-0-202112011938qtcreatorcdbext64.7z.sha1" for component Qt Creator 6.0.0 CDB Debugger Support.
+[720045] Downloading archive "6.0.0-0-202112011938qtcreatorcdbext64.7z" for component Qt Creator 6.0.0 CDB Debugger Support.
+[723493] Downloading archive "2019-11-07-0X64 Debuggers And Tools-x64_en-us.7z.sha1" for component Debugging Tools for Windows.
+[725821] Downloading archive "2019-11-07-0X64 Debuggers And Tools-x64_en-us.7z" for component Debugging Tools for Windows.
+[733740] Downloading archive "2019-11-07-0x86 Debuggers And Tools-x86_en-us.7z.sha1" for component Debugging Tools for Windows.
+[736058] Downloading archive "2019-11-07-0x86 Debuggers And Tools-x86_en-us.7z" for component Debugging Tools for Windows.
+[743205] Downloading archive "3.21.1-202109070924windows64_x64_cmake_tools.7z.sha1" for component CMake 3.21.1 64-bit.
+[745269] Downloading archive "3.21.1-202109070924windows64_x64_cmake_tools.7z" for component CMake 3.21.1 64-bit.
+[751712] Downloading archive "1.10.2-202108061017ninja_win64.7z.sha1" for component Ninja 1.10.2.
+[754185] Downloading archive "1.10.2-202108061017ninja_win64.7z" for component Ninja 1.10.2.
+[756848] perform  operation: SimpleMoveFile
+[756848] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756848] Done
+[756849] undo  operation: SimpleMoveFile
+[756849] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756849] Done
+[756854] perform  operation: SimpleMoveFile
+[756854] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756854] Done
+[756856] undo  operation: SimpleMoveFile
+[756856] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756856] Done
+[756859] perform  operation: SimpleMoveFile
+[756859] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756859] Done
+[756860] undo  operation: SimpleMoveFile
+[756860] 	- arguments: C:\Qt/installerbase.exe, C:\Qt/installerbase.exe_backup
+[756860] Done
+[756989] Installing component Maintenance Tool
+[756989] backup qt.tools.maintenance operation: Extract
+[756989] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302installer-changelog.7z, C:\Qt
+[756989] Done
+[756989] perform qt.tools.maintenance operation: Extract
+[756989] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302installer-changelog.7z, C:\Qt
+[757004] Done
+[757005] backup qt.tools.maintenance operation: Extract
+[757005] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302installer-resource.7z, C:\Qt
+[757005] Done
+[757005] perform qt.tools.maintenance operation: Extract
+[757005] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302installer-resource.7z, C:\Qt
+[757028] Done
+[757029] backup qt.tools.maintenance operation: Extract
+[757029] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302tqtc-installer-framework-Windows-Windows_10-MSVC2015-Windows-Windows_10-X86-QtInstaller.7z, C:\Qt
+[757029] Done
+[757029] perform qt.tools.maintenance operation: Extract
+[757029] 	- arguments: installer://qt.tools.maintenance/4.2.0-0-202111081302tqtc-installer-framework-Windows-Windows_10-MSVC2015-Windows-Windows_10-X86-QtInstaller.7z, C:\Qt
+[759564] Done
+[759564] backup qt.tools.maintenance operation: CreateShortcut
+[759564] 	- arguments: C:\Qt/MaintenanceTool.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Uninstall Qt.lnk,  --uninstall
+[759565] Done
+[759565] perform qt.tools.maintenance operation: CreateShortcut
+[759565] 	- arguments: C:\Qt/MaintenanceTool.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Uninstall Qt.lnk,  --uninstall
+[759608] Done
+[759608] backup qt.tools.maintenance operation: CreateShortcut
+[759608] 	- arguments: C:\Qt/MaintenanceTool.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Qt Maintenance Tool.lnk, workingDirectory=C:\Qt
+[759609] Done
+[759609] perform qt.tools.maintenance operation: CreateShortcut
+[759609] 	- arguments: C:\Qt/MaintenanceTool.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Qt Maintenance Tool.lnk
+[759645] Done
+[759649] Installing component Qt 3rd Party Licenses
+[759649] backup qt.license.thirdparty operation: Extract
+[759649] 	- arguments: installer://qt.license.thirdparty/1.0.0fdl_license.7z, C:\Qt
+[759649] Done
+[759650] perform qt.license.thirdparty operation: Extract
+[759650] 	- arguments: installer://qt.license.thirdparty/1.0.0fdl_license.7z, C:\Qt
+[759662] Done
+[759663] backup qt.license.thirdparty operation: Extract
+[759663] 	- arguments: installer://qt.license.thirdparty/1.0.0ThirdPartySoftware_Listing.7z, C:\Qt
+[759663] Done
+[759663] perform qt.license.thirdparty operation: Extract
+[759663] 	- arguments: installer://qt.license.thirdparty/1.0.0ThirdPartySoftware_Listing.7z, C:\Qt
+[759673] Done
+[759683] Installing component Qt License LGPL
+[759684] backup qt.license.lgpl operation: License
+[759684] 	- arguments:
+[759684] Done
+[759685] perform qt.license.lgpl operation: License
+[759685] 	- arguments:
+[759690] Done
+[759702] Installing component VCRedist for MSVC 64bit
+[759704] backup qt.tools.vcredist_64 operation: Extract
+[759704] 	- arguments: installer://qt.tools.vcredist_64/2020-03-18vcredist_x64.7z, C:\Qt
+[759704] Done
+[759705] perform qt.tools.vcredist_64 operation: Extract
+[759705] 	- arguments: installer://qt.tools.vcredist_64/2020-03-18vcredist_x64.7z, C:\Qt
+[759849] Done
+[759854] Installing component VCRedist for MSVC 2019 32bit
+[759855] backup qt.tools.vcredist_msvc2019_x86 operation: Extract
+[759855] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2019-05-19-1vcredist_msvc2019_x86.7z, C:\Qt
+[759855] Done
+[759855] perform qt.tools.vcredist_msvc2019_x86 operation: Extract
+[759855] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2019-05-19-1vcredist_msvc2019_x86.7z, C:\Qt
+[760437] Done
+[760437] "Execute" as admin: true
+[760437] backup qt.tools.vcredist_msvc2019_x86 operation: Execute
+[760438] 	- arguments: {0,3010,1638,5100}, C:\Qt\vcredist\vcredist_msvc2019_x86.exe, /norestart, /q
+[760438] Done
+[760438] perform qt.tools.vcredist_msvc2019_x86 operation: Execute
+[760439] 	- arguments: {0,3010,1638,5100}, C:\Qt\vcredist\vcredist_msvc2019_x86.exe, /norestart, /q
+[760442] C:\\Qt\\vcredist\\vcredist_msvc2019_x86.exe" started, arguments: "/norestart /q
+[776070] Done
+[776076] Installing component VCRedist for MSVC 32bit
+[776076] backup qt.tools.vcredist operation: Extract
+[776076] 	- arguments: installer://qt.tools.vcredist/2011-03-03-1vcredist_x86.7z, C:\Qt
+[776076] Done
+[776076] perform qt.tools.vcredist operation: Extract
+[776076] 	- arguments: installer://qt.tools.vcredist/2011-03-03-1vcredist_x86.7z, C:\Qt
+[778626] Done
+[778633] Installing component VCRedist for MSVC 2019 64bit
+[778633] backup qt.tools.vcredist_msvc2019_x64 operation: Extract
+[778633] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2020-05-19-1vcredist_msvc2019_x64.7z, C:\Qt
+[778633] Done
+[778634] perform qt.tools.vcredist_msvc2019_x64 operation: Extract
+[778634] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2020-05-19-1vcredist_msvc2019_x64.7z, C:\Qt
+[779213] Done
+[779216] Installing component Qt Creator 6.0.0
+[779216] backup qt.tools.qtcreator operation: Extract
+[779216] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938jom.7z, C:\Qt
+[779216] Done
+[779216] perform qt.tools.qtcreator operation: Extract
+[779216] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938jom.7z, C:\Qt
+[779545] Done
+[779546] backup qt.tools.qtcreator operation: Extract
+[779546] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938qtcreator.7z, C:\Qt
+[779546] Done
+[779546] perform qt.tools.qtcreator operation: Extract
+[779546] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938qtcreator.7z, C:\Qt
+[829448] Done
+[829449] backup qt.tools.qtcreator operation: Extract
+[829449] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938qtcreator_sdktool.7z, C:\Qt
+[829449] Done
+[829449] perform qt.tools.qtcreator operation: Extract
+[829449] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938qtcreator_sdktool.7z, C:\Qt
+[829745] Done
+[829746] backup qt.tools.qtcreator operation: Extract
+[829746] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938wininterrupt32.7z, C:\Qt
+[829746] Done
+[829746] perform qt.tools.qtcreator operation: Extract
+[829746] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938wininterrupt32.7z, C:\Qt
+[829760] Done
+[829760] backup qt.tools.qtcreator operation: Extract
+[829760] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938wininterrupt64.7z, C:\Qt
+[829760] Done
+[829761] perform qt.tools.qtcreator operation: Extract
+[829761] 	- arguments: installer://qt.tools.qtcreator/6.0.0-0-202112011938wininterrupt64.7z, C:\Qt
+[829775] Done
+[829775] backup qt.tools.qtcreator operation: CreateShortcut
+[829775] 	- arguments: C:\Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Creator 6.0.0 (Community).lnk, workingDirectory=C:/Users/PV
+[829775] Done
+[829776] perform qt.tools.qtcreator operation: CreateShortcut
+[829776] 	- arguments: C:\Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\PV\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Creator 6.0.0 (Community).lnk
+[829826] Done
+[829827] backup qt.tools.qtcreator operation: RegisterFileType
+[829827] 	- arguments: ui, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[829827] Done
+[829828] perform qt.tools.qtcreator operation: RegisterFileType
+[829828] 	- arguments: ui, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[829860] Done
+[829860] backup qt.tools.qtcreator operation: RegisterFileType
+[829860] 	- arguments: pro, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[829860] Done
+[829861] perform qt.tools.qtcreator operation: RegisterFileType
+[829861] 	- arguments: pro, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[829869] Done
+[829869] backup qt.tools.qtcreator operation: RegisterFileType
+[829869] 	- arguments: pri, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[829869] Done
+[829870] perform qt.tools.qtcreator operation: RegisterFileType
+[829870] 	- arguments: pri, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[829878] Done
+[829879] backup qt.tools.qtcreator operation: RegisterFileType
+[829879] 	- arguments: qbs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[829879] Done
+[829879] perform qt.tools.qtcreator operation: RegisterFileType
+[829879] 	- arguments: qbs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[829890] Done
+[829891] backup qt.tools.qtcreator operation: RegisterFileType
+[829891] 	- arguments: qs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[829891] Done
+[829891] perform qt.tools.qtcreator operation: RegisterFileType
+[829891] 	- arguments: qs, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[829900] Done
+[829900] backup qt.tools.qtcreator operation: RegisterFileType
+[829900] 	- arguments: qml, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[829900] Done
+[829901] perform qt.tools.qtcreator operation: RegisterFileType
+[829901] 	- arguments: qml, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[829909] Done
+[829909] backup qt.tools.qtcreator operation: RegisterFileType
+[829909] 	- arguments: h, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[829909] Done
+[829910] perform qt.tools.qtcreator operation: RegisterFileType
+[829910] 	- arguments: h, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[829919] Done
+[829919] backup qt.tools.qtcreator operation: RegisterFileType
+[829919] 	- arguments: hh, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[829919] Done
+[829920] perform qt.tools.qtcreator operation: RegisterFileType
+[829920] 	- arguments: hh, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[829929] Done
+[829929] backup qt.tools.qtcreator operation: RegisterFileType
+[829929] 	- arguments: hxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[829929] Done
+[829930] perform qt.tools.qtcreator operation: RegisterFileType
+[829930] 	- arguments: hxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[829939] Done
+[829939] backup qt.tools.qtcreator operation: RegisterFileType
+[829939] 	- arguments: h++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[829939] Done
+[829940] perform qt.tools.qtcreator operation: RegisterFileType
+[829940] 	- arguments: h++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[829950] Done
+[829950] backup qt.tools.qtcreator operation: RegisterFileType
+[829950] 	- arguments: hpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[829950] Done
+[829951] perform qt.tools.qtcreator operation: RegisterFileType
+[829951] 	- arguments: hpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[829959] Done
+[829959] backup qt.tools.qtcreator operation: RegisterFileType
+[829959] 	- arguments: cc, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[829959] Done
+[829959] perform qt.tools.qtcreator operation: RegisterFileType
+[829959] 	- arguments: cc, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[829968] Done
+[829969] backup qt.tools.qtcreator operation: RegisterFileType
+[829969] 	- arguments: cxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[829969] Done
+[829969] perform qt.tools.qtcreator operation: RegisterFileType
+[829969] 	- arguments: cxx, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[829978] Done
+[829978] backup qt.tools.qtcreator operation: RegisterFileType
+[829978] 	- arguments: c++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[829978] Done
+[829979] perform qt.tools.qtcreator operation: RegisterFileType
+[829979] 	- arguments: c++, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[829988] Done
+[829988] backup qt.tools.qtcreator operation: RegisterFileType
+[829989] 	- arguments: cp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[829989] Done
+[829989] perform qt.tools.qtcreator operation: RegisterFileType
+[829989] 	- arguments: cp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[829998] Done
+[829998] backup qt.tools.qtcreator operation: RegisterFileType
+[829999] 	- arguments: cpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[829999] Done
+[829999] perform qt.tools.qtcreator operation: RegisterFileType
+[829999] 	- arguments: cpp, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[830004] Done
+[830005] backup qt.tools.qtcreator operation: RegisterFileType
+[830005] 	- arguments: c, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[830005] Done
+[830005] perform qt.tools.qtcreator operation: RegisterFileType
+[830005] 	- arguments: c, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, C:\Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[830014] Done
+[830015] backup qt.tools.qtcreator operation: Settings
+[830015] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=set, key=Updater/MaintenanceTool, value=C:\Qt/MaintenanceTool.exe
+[830015] Done
+[830015] perform qt.tools.qtcreator operation: Settings
+[830015] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=set, key=Updater/MaintenanceTool, value=C:\Qt/MaintenanceTool.exe
+[830025] Done
+[830026] backup qt.tools.qtcreator operation: Settings
+[830026] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[830026] Done
+[830026] perform qt.tools.qtcreator operation: Settings
+[830026] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[830040] Done
+[830044] Installing component Python Software Foundation License Version 2
+[830045] backup qt.license.python operation: License
+[830045] 	- arguments:
+[830045] Done
+[830046] perform qt.license.python operation: License
+[830046] 	- arguments:
+[830050] Done
+[830055] Installing component Qt Creator 6.0.0 CDB Debugger Support
+[830056] backup qt.tools.qtcreatorcdbext operation: Extract
+[830056] 	- arguments: installer://qt.tools.qtcreatorcdbext/6.0.0-0-202112011938qtcreatorcdbext32.7z, C:\Qt
+[830056] Done
+[830056] perform qt.tools.qtcreatorcdbext operation: Extract
+[830056] 	- arguments: installer://qt.tools.qtcreatorcdbext/6.0.0-0-202112011938qtcreatorcdbext32.7z, C:\Qt
+[830642] Done
+[830642] backup qt.tools.qtcreatorcdbext operation: Extract
+[830642] 	- arguments: installer://qt.tools.qtcreatorcdbext/6.0.0-0-202112011938qtcreatorcdbext64.7z, C:\Qt
+[830642] Done
+[830642] perform qt.tools.qtcreatorcdbext operation: Extract
+[830642] 	- arguments: installer://qt.tools.qtcreatorcdbext/6.0.0-0-202112011938qtcreatorcdbext64.7z, C:\Qt
+[831257] Done
+[831280] Installing component MICROSOFT SOFTWARE LICENSE SDK FOR WINDOWS 10
+[831299] backup qt.license.win10sdk operation: License
+[831299] 	- arguments:
+[831299] Done
+[831303] perform qt.license.win10sdk operation: License
+[831303] 	- arguments:
+[831309] Done
+[831317] Installing component Debugging Tools for Windows
+[831321] backup qt.tools.windows_kits_debuggers operation: Extract
+[831321] 	- arguments: installer://qt.tools.windows_kits_debuggers/2019-11-07-0X64 Debuggers And Tools-x64_en-us.7z, C:\Qt
+[831321] Done
+[831328] perform qt.tools.windows_kits_debuggers operation: Extract
+[831328] 	- arguments: installer://qt.tools.windows_kits_debuggers/2019-11-07-0X64 Debuggers And Tools-x64_en-us.7z, C:\Qt
+[832626] Done
+[832629] backup qt.tools.windows_kits_debuggers operation: Extract
+[832629] 	- arguments: installer://qt.tools.windows_kits_debuggers/2019-11-07-0x86 Debuggers And Tools-x86_en-us.7z, C:\Qt
+[832629] Done
+[832631] perform qt.tools.windows_kits_debuggers operation: Extract
+[832631] 	- arguments: installer://qt.tools.windows_kits_debuggers/2019-11-07-0x86 Debuggers And Tools-x86_en-us.7z, C:\Qt
+[833936] Done
+[833939] "Execute" as admin: true
+[833939] backup qt.tools.windows_kits_debuggers operation: Execute
+[833939] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, C:\Qt\vcredist\X64 Debuggers And Tools-x64_en-us.msi, /norestart, /q
+[833939] Done
+[833940] perform qt.tools.windows_kits_debuggers operation: Execute
+[833940] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, C:\Qt\vcredist\X64 Debuggers And Tools-x64_en-us.msi, /norestart, /q
+[833942] msiexec" started, arguments: "/i C:\\Qt\\vcredist\\X64 Debuggers And Tools-x64_en-us.msi /norestart /q
+[841515] Done
+[841519] "Execute" as admin: true
+[841519] backup qt.tools.windows_kits_debuggers operation: Execute
+[841519] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, C:\Qt\vcredist\x86 Debuggers And Tools-x86_en-us.msi, /norestart, /q
+[841519] Done
+[841522] perform qt.tools.windows_kits_debuggers operation: Execute
+[841522] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, C:\Qt\vcredist\x86 Debuggers And Tools-x86_en-us.msi, /norestart, /q
+[841525] msiexec" started, arguments: "/i C:\\Qt\\vcredist\\x86 Debuggers And Tools-x86_en-us.msi /norestart /q
+[847924] Done
+[847956] Installing component CMake 3.21.1 64-bit
+[847957] backup qt.tools.cmake.win64 operation: Extract
+[847957] 	- arguments: installer://qt.tools.cmake.win64/3.21.1-202109070924windows64_x64_cmake_tools.7z, C:\Qt
+[847958] Done
+[847961] perform qt.tools.cmake.win64 operation: Extract
+[847961] 	- arguments: installer://qt.tools.cmake.win64/3.21.1-202109070924windows64_x64_cmake_tools.7z, C:\Qt
+[868462] Done
+[868462] backup qt.tools.cmake.win64 operation: Execute
+[868463] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addCMake, --id, qt.tools.cmake.win64, --name, CMake 3.21.1 (Qt), --path, C:\Qt\Tools\CMake_64\bin\cmake.exe, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmCMake, --id, qt.tools.cmake.win64
+[868463] Done
+[868463] perform qt.tools.cmake.win64 operation: Execute
+[868464] 	- arguments: C:\Qt\/Tools/QtCreator\bin\sdktool.exe, addCMake, --id, qt.tools.cmake.win64, --name, CMake 3.21.1 (Qt), --path, C:\Qt\Tools\CMake_64\bin\cmake.exe, UNDOEXECUTE, C:\Qt\/Tools/QtCreator\bin\sdktool.exe, rmCMake, --id, qt.tools.cmake.win64
+[868765] C:\\Qt\\/Tools/QtCreator\\bin\\sdktool.exe" started, arguments: "addCMake --id qt.tools.cmake.win64 --name CMake 3.21.1 (Qt) --path C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe
+[868869] Done
+[868870] backup qt.tools.cmake.win64 operation: License
+[868870] 	- arguments:
+[868870] Done
+[868870] perform qt.tools.cmake.win64 operation: License
+[868870] 	- arguments:
+[868874] Done
+[868879] Installing component Ninja 1.10.2
+[868880] backup qt.tools.ninja operation: Extract
+[868880] 	- arguments: installer://qt.tools.ninja/1.10.2-202108061017ninja_win64.7z, C:\Qt
+[868880] Done
+[868880] perform qt.tools.ninja operation: Extract
+[868880] 	- arguments: installer://qt.tools.ninja/1.10.2-202108061017ninja_win64.7z, C:\Qt
+[868932] Done
+[868932] backup qt.tools.ninja operation: Settings
+[868932] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=CMakeSpecificSettings/NinjaPath, value=C:\Qt\Tools\Ninja\ninja.exe
+[868932] Done
+[868933] perform qt.tools.ninja operation: Settings
+[868933] 	- arguments: path=C:\Qt//Tools/QtCreator/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=CMakeSpecificSettings/NinjaPath, value=C:\Qt\Tools\Ninja\ninja.exe
+[868946] Done
+[868946] backup qt.tools.ninja operation: License
+[868946] 	- arguments:
+[868946] Done
+[868947] perform qt.tools.ninja operation: License
+[868947] 	- arguments:
+[868949] Done
+[868958] Got a replacement installer base binary: "C:\\Qt/installerbase.exe"
+[868959] Writing maintenance tool: "C:\\Qt/MaintenanceTool.exe.new"
+[868960] Writing maintenance tool.
+[870733] Wrote permissions for maintenance tool.
+[870739] Wrote the binary with the new replacement.
+[870745] Removed installer base binary "C:\\Qt/installerbase.exe" after updating the maintenance tool.
+[871099] Maintenance tool restart: false.
+[871103] Installation finished!
+[1193278] run application as detached process: "C:\\Qt\\\\Tools\\QtCreator\\bin\\qtcreator.exe" () "C:/Users/PV"
+************************************* Invoked: T7 Thg12 4 16:42:03 2021
